@@ -1,2 +1,2 @@
-# Python-Practice
-Just my learning and practiced stuff of Python
+# Python-Java-Practice
+Just my learning and practiced stuff of Python and Java
